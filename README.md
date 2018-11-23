@@ -8,3 +8,5 @@ Assignments for the Algorithms lecture
 5. Floyd Warshall Algorithm 
 6. Minimum Matrix Multiplication
 7. Optimal Binary Search Tree
+8. Traveling Salesperson Problem (TSP) by Dynamic Programming with Bitmask
+9. Minimum Spanning Tree (Prim Algorithm and Kruskal Algorithm)
