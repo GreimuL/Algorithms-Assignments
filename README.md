@@ -10,3 +10,4 @@ Assignments for the Algorithms lecture
 7. Optimal Binary Search Tree
 8. Traveling Salesperson Problem (TSP) by Dynamic Programming with Bitmask
 9. Minimum Spanning Tree (Prim Algorithm and Kruskal Algorithm)
+10. Sum of subsets problem by Backtracking and analyze it by Monte Carlo Algorithm
